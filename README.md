@@ -1,1 +1,1 @@
-# adr-cli
+# git-adr
